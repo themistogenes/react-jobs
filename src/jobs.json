@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "52d2",
-      "type": "Full-Time",
-      "title": "Test Job 1",
-      "description": "This is the description of the job.",
-      "salary": "Under $50K",
-      "location": "Boston MA",
-      "company": {
-        "name": "Test Company",
-        "description": "This is the description of the company.",
-        "contactEmail": "company@gmail.com",
-        "contactPhone": "555-555-5555"
-      }
     }
   ]
 }

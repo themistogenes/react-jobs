@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "79bb",
-      "type": "Full-Time",
-      "title": "Senior React Developer",
-      "description": "Develop web apps at a senior level.",
-      "salary": "Under $50K",
-      "location": "Cincinnati OH",
-      "company": {
-        "name": "Reactify",
-        "description": "We are React.",
-        "contactEmail": "reactify@gmail.com",
-        "contactPhone": "555-555-5555"
-      }
     }
   ]
 }
